@@ -3,10 +3,14 @@
 
 
 ## Paso 1:
+Obtener de la sesión del usuario las variables "username" y "password".
+
+
+## Paso n:
 Agregar el siguiente fragmento de código en la plataforma web:
 
 ```
-<iframe id="MyIFrame" width="400" height="400"></iframe>
+<iframe id="MyIFrame" width="100%" height="100%"></iframe>
 <script type="text/javascript">
     var iframeURL = 'https://playfast.com/auth/sign-in';
     var iframeID = 'MyIFrame';
