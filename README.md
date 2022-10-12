@@ -5,8 +5,7 @@
 ## Paso 1:
 Agregar el siguiente fragmento de código en la plataforma web:
 
-'''
-<iframe id="MyIFrame" width="400" height="400"></iframe>
+> <iframe id="MyIFrame" width="400" height="400"></iframe>
 <script type="text/javascript">
     var iframeURL = 'http://mysite.com/path/applicationPage.aspx';
     var iframeID = 'MyIFrame';
@@ -25,4 +24,4 @@ Agregar el siguiente fragmento de código en la plataforma web:
     //onload, call loadIframe() function
     loadIframe();   
 </script>
-'''
+>
