@@ -35,5 +35,5 @@ Agregar el siguiente fragmento de código en la plataforma web:
 
 ## Paso 3:
 
-Enviar los parametros "username" y "password" mediante el método POST includio en el iframe. 
+Enviar en el iframe los parametros "username" y "password" mediante el método POST. 
 
