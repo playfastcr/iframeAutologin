@@ -3,7 +3,9 @@
 
 
 ## Paso 1:
-Obtener de la sesión del usuario las variables "username" y "password".
+Obtener de la sesión del usuario los parametros: 
+- "username" 
+- "password"
 
 
 ## Paso 2:
