@@ -20,8 +20,8 @@ Agregar el siguiente fragmento de código en la plataforma web:
     function loadIframe(){
         //pre-authenticate
         var req = new XMLHttpRequest();
-        req.open("POST",this.iframeURL, false, "username", "password"); //use POST to safely send combination
-        req.send(null); //here you can pass extra parameters through
+        req.open("POST",this.iframeURL, false, "username", "password"); 
+        req.send(null); 
 
         //setiFrame's SRC attribute
         var iFrameWin = document.getElementById(this.iframeID);
