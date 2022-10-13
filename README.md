@@ -12,10 +12,10 @@ Obtener de la sesión del usuario los parametros:
 Agregar el siguiente fragmento de código en la plataforma web:
 
 ```
-<iframe id="MyIFrame" width="100%" height="100%"></iframe>
+<iframe id="IFramePF" width="100%" height="100%"></iframe>
 <script type="text/javascript">
     var iframeURL = 'https://playfast.com/auth/sign-in';
-    var iframeID = 'MyIFrame';
+    var iframeID = 'IFramePF';
 
     function loadIframe(){
         //pre-authenticate
